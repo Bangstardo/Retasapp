@@ -1,5 +1,5 @@
 # Retasapp
-Connecting throught sport 
+Connecting through sport 
 
 we the people
 boi
